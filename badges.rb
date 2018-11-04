@@ -2,4 +2,6 @@ def badge_maker (name)
   puts "Hell, my name is ${name}."
 end
 
-batch_badge_creator = [" Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"] 
+def batch_badge_creater
+  name = [" Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+end
