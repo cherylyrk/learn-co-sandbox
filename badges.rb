@@ -1,9 +1,10 @@
+name = [" Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+
 def badge_maker (name)
   return "Hello, my name is #{name}."
 end
 
 def batch_badge_creater (name)
-  name = [" Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
   puts "Hello, my name is #{name[0]}."
   puts "Hello, my name is #{name[1]}."
   puts "Hello, my name is #{name[2]}."
