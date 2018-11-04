@@ -8,3 +8,4 @@ def batch_badge_creater (name)
 end
 
 def assign_rooms (name)
+  puts "Hello, #{name}! You'll be assigned to room "
