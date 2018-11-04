@@ -4,7 +4,7 @@ end
 
 def batch_badge_creater (name)
   name = [" Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-  return 
+  puts "#{name[0]"
 end
 
 def assign_rooms (name)
