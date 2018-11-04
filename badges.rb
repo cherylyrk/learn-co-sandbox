@@ -16,6 +16,7 @@ end
 
 def assign_rooms (name)
   name.each_with_index {|name, index| puts "Hello, #{name}! You'll be assigned to room #{index +1}!"
+  
 end
 
 def printer (name)
