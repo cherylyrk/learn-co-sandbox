@@ -7,4 +7,4 @@ def batch_badge_creater (name)
   return 
 end
 
-def assign_rooms
+def assign_rooms (name)
