@@ -17,3 +17,6 @@ end
 def assign_rooms (name)
   puts "Hello, #{name}! You'll be assigned to room "
 end
+
+def printer (name)
+  badge_maker(name)
