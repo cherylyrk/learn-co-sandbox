@@ -17,6 +17,7 @@ end
 def assign_rooms (name)
   room = 1
   while room <= name.length-1
+  count +=1
   return
   name.each_with_index {|name, index| puts "Hello, #{name}! You'll be assigned to room #{index +1}!"
   end
